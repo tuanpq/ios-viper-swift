@@ -1,0 +1,77 @@
+{
+  "pageNumber": 0,
+  "totalPages": 1,
+  "products": [
+    {
+      "id": "616e67d01e6cd14b2e371140",
+      "name": "ĐẦM XÒE ĐEN THÊU CHỮ TAY LỠ",
+      "price": 399000,
+      "images": [
+        "https://hhluxury.vn/storage/images/yaf0osfXfwLG62A9exYOg8YIOoh9Pe5atijYQgXp.jpg",
+        "https://hhluxury.vn/storage/images/KCoVrrJ17kOl639XA3V0SNp8k8UbaJn4HBLy5TAe.jpg",
+        "https://hhluxury.vn/storage/images/CL9ppp6cfoPM09cYnzeshNzIe0BaKEwiy7gTCYyB.jpg"
+      ]
+    },
+    {
+      "id": "616e680a1e6cd14b2e371141",
+      "name": "ĐẦM XÒE LỤA XẾP LY NƠ CỔ TAY LỠ",
+      "price": 389000,
+      "images": [
+        "https://hhluxury.vn/storage/images/Q0fxTVDrOg3j9JrDskbHFZyVk20fwcGD75YgkPu4.jpg",
+        "https://hhluxury.vn/storage/images/XJLpHkxZxjCB0tM48LcSEo7ejC6ctbJKRIKZI8h9.jpg",
+        "https://hhluxury.vn/storage/images/tEc2gtB94pIJ3HLGvAPNxDNHcDXs4rXLa1csMR2E.jpg"
+      ]
+    },
+    {
+      "id": "616e683c1e6cd14b2e371142",
+      "name": "ĐẦM XÒE LỤA HOA VẠT CHÉO NƠ CỔ",
+      "price": 389000,
+      "images": [
+        "https://hhluxury.vn/storage/images/73usi6n3H5BkA3uXlNsUSDlpQ9D0mDjw23YVKODZ.jpg",
+        "https://hhluxury.vn/storage/images/BjRcN6i50tEaUpNs0SMIVvqRWBVFZtBJ5NSgVHaJ.jpg",
+        "https://hhluxury.vn/storage/images/vXjbJG7EgIgP6kJOOGwtCtPxr5w42lIwer0t1Qd7.jpg"
+      ]
+    },
+    {
+      "id": "616e68711e6cd14b2e371143",
+      "name": "ĐẦM XÒE KẺ NUDE ĐÍNH HOA 3D CÓ TÚI",
+      "price": 429000,
+      "images": [
+        "https://hhluxury.vn/storage/images/rP6WN0iLx5G74oylIA5hXlYZBx9q6WKeH2AMO9ny.jpg",
+        "https://hhluxury.vn/storage/images/2mHy5t4cNHehSLguhfvuIGKnwJSc0AgyFUWw9cGR.jpg",
+        "https://hhluxury.vn/storage/images/f3nQAJTzMHsRhsUvVq9os2APvr4iAdPySBViOLpV.jpg"
+      ]
+    },
+    {
+      "id": "616e68aa1e6cd14b2e371144",
+      "name": "ĐẦM XÒE LỤA HOA XẾP BÈO NƠ CỔ",
+      "price": 389000,
+      "images": [
+        "https://hhluxury.vn/storage/images/3Zo7UcyBB0Mat7TC6FRtK7k8aUrtg7aim6bITe8x.jpg",
+        "https://hhluxury.vn/storage/images/tFwRKXcVAuBTqDHonaOtJBnP70nPNGHElLDK82QF.jpg",
+        "https://hhluxury.vn/storage/images/ZFh8Fw0z1cKT6R8U9YppXId8vuLBrmMUpfBjXfbj.jpg"
+      ]
+    },
+    {
+      "id": "616e68da1e6cd14b2e371145",
+      "name": "ĐẦM XÒE ĐEN 2 TÚI SƯỜN THÊU HOA",
+      "price": 399000,
+      "images": [
+        "https://hhluxury.vn/storage/images/gyKXblMVwTm8eDliTCwAfbwjCgm61BDgHza4vtto.jpg",
+        "https://hhluxury.vn/storage/images/Ganeo5C4IokouBPGrMZ8lssgWkOrOntt1YWYF2nV.jpg",
+        "https://hhluxury.vn/storage/images/ek27skANa5Tnb7Rt7XIVY53r81gEg6cW4jzzOztz.jpg"
+      ]
+    },
+    {
+      "id": "616e69071e6cd14b2e371146",
+      "name": "ĐẦM XÒE KẺ HỒNG XẾP LY ĐAI EO",
+      "price": 389000,
+      "images": [
+        "https://hhluxury.vn/storage/images/wz06RzGPYRiGi8L7VOAgXlo5lGtVhS8Sy3y1VQvt.jpg",
+        "https://hhluxury.vn/storage/images/eb34n57u0AOwwZvYlwO7cnD9jLG8ZZgJP0yUBQoM.jpg",
+        "https://hhluxury.vn/storage/images/B4hqjOSGU6dweIMumeZ70cBFlVj1iY62MFfBqP2S.jpg"
+      ]
+    }
+  ],
+  "totalElements": 7
+}
